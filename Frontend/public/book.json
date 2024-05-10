@@ -1,0 +1,123 @@
+[
+    {
+      "title": "Abe Hayat",
+      "price": "free",
+      "category": "Romance",
+      "image": "https://m.media-amazon.com/images/I/81TJfgRNTAL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+    },
+    {
+      "title": "Maala",
+      "price": 12.49,
+      "category": "Romance",
+      "image": "https://orderondoor.com/wp-content/uploads/2023/12/Untitled-design-18.png"
+    },
+    {
+      "title": "Illusion",
+      "price": "free",
+      "category": "Technology",
+      "image": "https://i.pinimg.com/564x/09/76/ca/0976ca1e8d0e07c6af852c7f71a79f5f.jpg"
+    },
+    {
+      "title": "Two of us",
+      "price": "free",
+      "category": "Fantasy",
+      "image":"https://i.pinimg.com/564x/3a/f3/e9/3af3e9cfd27d540fee074d6008b2986a.jpg"
+    },
+    {
+      "title": "Right Move",
+      "price": 18.49,
+      "category": "Romance",
+      "image": "https://i.pinimg.com/564x/e6/86/03/e686039db98debb5a528a1e28d40f599.jpg"
+    },
+    {
+      "title": "Mile High",
+      "price": 0,
+      "category": "Travel",
+      "image": "https://i.pinimg.com/564x/76/86/3c/76863c6f9bc83507f3f22efa8b630785.jpg"
+    },
+    {
+      "title": "Twisted Series",
+      "price": 14.99,
+      "category": "Mystery",
+      "image": "https://i.pinimg.com/736x/0e/f5/a9/0ef5a987f8bb2a4cb0db746b5585e002.jpg"
+    },
+    {
+      "title": "Start With Us",
+      "price": 26.99,
+      "category": "Fantasy",
+      "image": "https://i.pinimg.com/564x/07/c6/23/07c62317dbc41b7d8189caed888272d3.jpg"
+    },
+    {
+      "title": "Heart Bones",
+      "price": 0,
+      "category": "Love",
+      "image":"https://i.pinimg.com/564x/7a/fa/a8/7afaa8e82a4738f6f3c9678ad4f43def.jpg"
+    },
+    {
+      "title": "Love Roommates",
+      "price": 16.99,
+      "category": "Family",
+      "image": "https://i.pinimg.com/564x/dc/cb/b2/dccbb22b611ad4a45a79e141c6ed037f.jpg"
+    },
+    {
+      "title": "Romance Road",
+      "price": 0,
+      "category": "Romance",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638867089l/58690308.jpg"
+    },
+    {
+      "title": "Dard",
+      "price": 31.99,
+      "category": "Religious",
+      "image": "https://i.pinimg.com/736x/a8/74/5a/a8745a82a406e769c10da7173ef69acb.jpg"
+    },
+    {
+      "title": "Jannat k Patty",
+      "price": 0,
+      "category": "Religious",
+      "image":"https://i.pinimg.com/564x/77/9b/35/779b354078ce5a48afb6a59677bb144a.jpg"
+    },
+    {
+      "title": "Pets Perspective",
+      "price": 20.49,
+      "category": "Pets",
+      "image": "https://orderondoor.com/wp-content/uploads/2023/12/Untitled-design-18.png"
+    },
+    {
+      "title": "Naml",
+      "price": 0,
+      "category": "Mystery",
+      "image": "https://i.pinimg.com/564x/65/f8/89/65f8895db1c84920ba99ef9cb9f8665a.jpg"
+    },
+    {
+      "title": "Ikigai",
+      "price": 24.99,
+      "category": "Motivation",
+      "image": "https://i.pinimg.com/564x/4b/c5/2e/4bc52ee5e5a2b70d00defde24e718d24.jpg"
+    },
+    {
+      "title": "It ends with us",
+      "price": 0,
+      "category": "Fantasy",
+      "image": "https://i.pinimg.com/564x/22/00/a1/2200a1a150a668c24c3c3f52bd3f74dd.jpg"
+    },
+    {
+      "title": "Peere-e-Kamil",
+      "price": 0,
+      "category": "Religious",
+      "image": "https://i.pinimg.com/564x/44/8d/7d/448d7d898b9f758a08d10acb300ac486.jpg"
+    },
+    {
+      "title": "Haalim",
+      "price": 0,
+      "category": "Romance",
+      "image": "https://i.pinimg.com/564x/fb/ac/89/fbac898f2f30598077d57ec6a5ef6260.jpg"
+    },
+    {
+      "title": "Night Circus",
+      "price": 0,
+      "category": "Fantasy",
+      "image":"https://i.pinimg.com/564x/92/e7/31/92e731bfeae9ec7091eb81ca73cb61fd.jpg"
+    }
+  ]
+  
